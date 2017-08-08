@@ -1,0 +1,9 @@
+python jemdoc.py index
+python jemdoc.py pubs
+python jemdoc.py intern
+python jemdoc.py nlpprojs
+python jemdoc.py mlprojs
+python jemdoc.py talks
+python jemdoc.py awards
+python jemdoc.py service
+python jemdoc.py mentor
