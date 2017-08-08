@@ -1,4 +1,5 @@
 python jemdoc.py index
+python jemdoc.py about
 python jemdoc.py pubs
 python jemdoc.py intern
 python jemdoc.py nlpprojs

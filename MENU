@@ -1,7 +1,10 @@
-        Menu
-    Introduction  [index.html]
-    Publications  [pubs.html]
-    Internships  [intern.html]
+    Home
+    	Main  [index.html]
+    	About [about.html]
+    Publications
+    	Publications  [pubs.html]
+    Experience
+    	Internships  [intern.html]
     Projects  
     	Natural Language [nlpprojs.html]
     	Machine Learning [mlprojs.html]
