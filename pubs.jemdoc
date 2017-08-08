@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{pubs.html}, nofooter
+= Publications
+
+== Accepted
+- *Sparse Composite Document Vectors using soft clustering over distributional representations* \n Vivek Gupta',Dheeraj Mekala',Bhargavi Paranjape,Harish Karnick \n Accepted to EMNLP 2017. \[[https://arxiv.org/pdf/1612.06778.pdf PrePrint]\]
+- *Product Classification in E-Commerce using Distributional Semantics* \n Vivek Gupta, Harish Karnick, Ashendra Bansal, Pradhuman Jhala \n Accepted to COLING 2016. \[[https://aclweb.org/anthology/C/C16/C16-1052.pdf Paper]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_X3g4R0N0WXhqSzQ/view?usp=sharing Poster]\]
+- *Assisting Humans to Achieve Optimal Sleep by Changing Ambient Temperature* \n Vivek Gupta', Siddhant Mittal', Sandip Bhaumik, Raj Roy \n Accepted to BIBM 2016, also appear in BHI 2016 and HI-DS 2016. \[[http://ieeexplore.ieee.org/document/7822635/ Paper]\] \[[https://docs.google.com/presentation/d/11RqqLaDg1TqluEEm1BmwnzL-fwHlsJS9PRYlOzcJn1s/edit?usp=sharing PPT]\]
+
+== Under Review
+- *Leveraging Distributional Semantics for Multi-Label Learning* \n Rahul Wadbude, Vivek Gupta, Piyush Rai, Nagararjan Natararjan, Harish Karnick \n Under review in NIPS 2017.
+- *Exploring a full-fledged pipeline for Text Summarization using Abstract Meaning Representation* \n Siddharth Dohare, Harish Karnick, Vivek Gupta \n Under review in IJCNLP 2017. \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]]
+- *Efficient Estimation of Generalization Error and Bias-Variance Components of Ensembles* \n Dhruv Mahajan, Vivek Gupta, Satya Keerthi, Sundararjan Sellamanickam \n Under review in ICDM 2017.
+- *User Bias Removal in Review Score Prediction* \n Rahul Wadbude, Vivek Gupta, Dheeraj Mekala, Harish Karnick \n under review in DAB 2017 workshop. \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_ZUZSQVhsZjQ1TE0/view?usp=sharing Poster]\]
