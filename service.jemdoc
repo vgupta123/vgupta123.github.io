@@ -1,5 +1,6 @@
-# jemdoc: menu{SERVICE}{service.html}, nofooter
+# jemdoc: menu{MENU}{service.html}, nofooter
 = Professional Service
+
 - *External Reviewer*: Served as a reviewer for long and short papers for Empirical Methods in Natural Language Processing 2017
 - *Coordinator*: Initiated and managed [https://www.cse.iitk.ac.in/users/sigml Special Interest Group in Machine Learning] at Computer Science and Engineering Department, IIT Kanpur. Organize regular meetups for discussions and talks on topics in Machine Learning and related fields
 - *Teaching Assistant* for  MLT 2016 - Machine Learning Tool and Technique: Mentored a group of 30 M-Tech students part of an introductory course on Machine Learning. Set up a labeling software for project work, resulting in a new dataset

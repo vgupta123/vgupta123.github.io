@@ -2,8 +2,10 @@
     Introduction  [index.html]
     Internships  [intern.html]
     Publications  [pubs.html]
-    Projects  [projs.html]
-    Miscellaneous [misc.html]
+    Projects  
+    	Natural Language [nlpprojs.html]
+    	Machine Learning [mlprojs.html]
+    Miscellaneous
     	Talks [talks.html]
     	Awards [awards.html]
     	Service [service.html]

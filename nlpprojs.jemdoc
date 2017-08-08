@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{nlpprojs.html}, nofooter
+= Natural Language Processing
+
+In my time at Microsoft Research and at IIT Kanpur, I have had the chance to explore both practical and interesting problems in Natural Langauge Processing \n \n
+
+- *Text Categorization using Sparse Composite Vectors* \n In these project, I worked on novel topic-based document representation (distributional semantics representation) which outperforms state-of-the-art models in multi-class and multi-label classification tasks. We also showed that fuzzy GMM clustering on word-vectors lead to more coherent topic than LDA and can be used to detect Polysemic words. (Joint work with Dheeraj Mekala, IIT Kanpur, Bhargavi Paranjape, Microsoft Research Lab, India & Harish Karnick, IIT Kanpur)
+- *Product Classification using Distributional Semantics* \n In this project, I worked on the problem of tackling heirarichal product classification for a given ontology(taxonomy) tree using a novel two-level ensemble approach utilizing (with respect to the taxonomy tree) a path-wise, node-wise and depth-wise classifiers for product classification.(Joint work with Harish Karnick, IIT Kanpur, Ashendra Bansal, Flikart.com & Pradhuman Jhala, Flipkart.com)
+- *Text Summarization using Abstract Meaning Representation* \n In this project, we explored a full-fledged pipeline for text summarization with an intermediate step of Abstract Meaning Representation (AMR). Our proposed method achieves state-of the-art results compared to the other text summarization
+routines based on AMR. (Joint work with Shibhansh Dohare, IIT Kanpur & Harish Karnick, IIT Kanpur)
+
