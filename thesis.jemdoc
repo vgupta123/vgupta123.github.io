@@ -2,8 +2,6 @@
 = Product Categorization in E-Commerce using Distributional Semantics
 /Advisor: Prof. Harish Karnick (IIT Kanpur) & Pradhuman Jhala (Flipkart.com)/
 
-\n \n
-
 == Abstract
 
 Tagging products with path labels from a taxonomy is important for multiple tasks in e-commerce e.g. search. Most often sellers have textual product descriptions and we would like to automatically tag the product with a path label from a (largely)static hierarchical taxonomy. The main challenge is to devise a suitable vector representation for the textual description. 
