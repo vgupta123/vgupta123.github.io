@@ -8,3 +8,4 @@ python jemdoc.py talks
 python jemdoc.py awards
 python jemdoc.py service
 python jemdoc.py mentor
+python jemdoc.py thesis
