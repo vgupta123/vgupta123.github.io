@@ -8,20 +8,20 @@
 Tagging products with path labels from a taxonomy is important for multiple tasks in e-commerce e.g. search. Most often sellers have textual product descriptions and we would like to automatically tag the product with a path label from a (largely)static hierarchical taxonomy. The main challenge is to devise a suitable vector representation for the textual description. 
 \n \n
 This involves composing semantically enriched document vectors from word vectors. Introduction of global context along with local context during word-vector training gives rise to paragraph vectors. Despite some success paragraph vectors suffer from the following logical problems:-
-\n\n
+\n
 
 1. Current techniques embed paragraph vectors in the same space (dimension) despite paragraph containing multiple topics (senses).
-\n\n
+\n
 2. Current techniques ignore importance and distinctiveness of words across document i.e. all words contribute equally both quantitatively (weight) and qualitatively (semantics).
 
 In this work, we handle the above problems by introducing a novel compositional technique called weighted Bag of Word-Vectors for document representation. Further, we developed a technique which uses an ensemble of multiple classifiers predicting path labels, node-wise labels, depth-wise labels to decrease classification error.
-\n \n
+\n 
 Our new ensemble technique exploits the catalog hierarchy and achieves improved results in top K path prediction on various metrics. We have performed experiments on the book and non-book data sets of a large e-commerce vendor and platform company. Empirically, we show that using the proposed representation and ensemble method leads to improved results.
 
 === DownLoad Links
 
-\[[https://drive.google.com/file/d/0B0gqY7qPK73_YmZZSVJpNzNfVTg/view Thesis]\] \n
-\[[https://drive.google.com/file/d/0B0gqY7qPK73_WmZOQndkaGVlbkE/view PPT]\] \n
-\[[https://github.com/dheeraj7596/GWBoWV Vector Code]\] \n
-\[[https://aclweb.org/anthology/C/C16/C16-1052.pdf Paper]\] \n
-\[[https://drive.google.com/file/d/0B0gqY7qPK73_X3g4R0N0WXhqSzQ/view?usp=sharing Poster]\] \n
+\[[https://drive.google.com/file/d/0B0gqY7qPK73_YmZZSVJpNzNfVTg/view Thesis]\] 
+\[[https://drive.google.com/file/d/0B0gqY7qPK73_WmZOQndkaGVlbkE/view PPT]\] 
+\[[https://github.com/dheeraj7596/GWBoWV Vector Code]\] 
+\[[https://aclweb.org/anthology/C/C16/C16-1052.pdf Paper]\] 
+\[[https://drive.google.com/file/d/0B0gqY7qPK73_X3g4R0N0WXhqSzQ/view?usp=sharing Poster]\] 
