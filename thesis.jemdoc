@@ -15,7 +15,7 @@ This involves composing semantically enriched document vectors from word vectors
 2. Current techniques ignore importance and distinctiveness of words across document i.e. all words contribute equally both quantitatively (weight) and qualitatively (semantics).
 
 In this work, we handle the above problems by introducing a novel compositional technique called weighted Bag of Word-Vectors for document representation. Further, we developed a technique which uses an ensemble of multiple classifiers predicting path labels, node-wise labels, depth-wise labels to decrease classification error.
-\n 
+\n \n
 Our new ensemble technique exploits the catalog hierarchy and achieves improved results in top K path prediction on various metrics. We have performed experiments on the book and non-book data sets of a large e-commerce vendor and platform company. Empirically, we show that using the proposed representation and ensemble method leads to improved results.
 
 === DownLoad Links
