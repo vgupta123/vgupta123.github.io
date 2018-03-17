@@ -7,9 +7,10 @@
 - *Assisting Humans to Achieve Optimal Sleep by Changing Ambient Temperature* \n Vivek Gupta, Siddhant Mittal, Sandip Bhaumik, Raj Roy \n Published at BIBM 2016, also appear in BHI 2016 and HI-DS 2016. \[[http://ieeexplore.ieee.org/document/7822635/ Paper]\] \[[https://docs.google.com/presentation/d/11RqqLaDg1TqluEEm1BmwnzL-fwHlsJS9PRYlOzcJn1s/edit?usp=sharing PPT]\]
 - *User Bias Removal in Review Score Prediction* \n Rahul Wadbude, Vivek Gupta, Dheeraj Mekala, Harish Karnick \n Published at CoDS-COMAD 2018 and DAB 2017 workshop. \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_ZUZSQVhsZjQ1TE0/view?usp=sharing Poster]\] \[[https://drive.google.com/file/d/10068eBGLQYeicMAEC4YVmpo_P8YfhWAJ/view?usp=sharing PPT]\].
 
-== Work Under Review
-- *Leveraging Distributional Semantics for Multi-Label Learning* \n Rahul Wadbude, Vivek Gupta, Piyush Rai, Nagararjan Natararjan, Harish Karnick, Prateek Jain \n Under review at ECML-PKDD 2018 (Journal Track). \[[https://arxiv.org/abs/1709.05976 PrePrint]]
-- *Text Summarization using Abstract Meaning Representation* \n Siddharth Dohare, Harish Karnick, Vivek Gupta \n Under review at NAACL 2018. \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]]
-- *Efficient Estimation of Generalization Error and Bias-Variance Components of Ensembles* \n Dhruv Mahajan, Vivek Gupta, Satya Keerthi, Sundararjan Sellamanickam \n Under review in SDM 2018. \[[https://arxiv.org/abs/1711.05482 PrePrint]]
-- *Bayes-optimal Hierarichal Classification over Asymmetric Tree-Distance Loss* \n Dheeraj Mekala, Vivek Gupta, Purushottam Kar, Harish Karnick \n Under preperation for ICML 2018
+== Working Manuscripts
+- *Leveraging Distributional Semantics for Multi-Label Learning* \n Rahul Wadbude*, Vivek Gupta*, Piyush Rai, Nagararjan Natararjan, Harish Karnick, Prateek Jain \n Under Submission. \[[https://arxiv.org/abs/1709.05976 PrePrint]]
+- *Text Summarization using Abstract Meaning Representation* \n Siddharth Dohare, Harish Karnick, Vivek Gupta \n Under Submission. \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]]
+- *Efficient Estimation of Generalization Error and Bias-Variance Components of Ensembles* \n Dhruv Mahajan, Vivek Gupta, Satya Keerthi, Sundararjan Sellamanickam \n Under Submission. \[[https://arxiv.org/abs/1711.05482 PrePrint]]
+- *Unsupervised Document Embedding using Partion WordVector Averaging* \n Ankit Saw*, Vivek Gupta*, Nagarajan Natarajan, Praneeth Netrapalli \n Under Submission. 
+- *Bayes-optimal Hierarichal Classification over Asymmetric Tree-Distance Loss* \n Dheeraj Mekala, Vivek Gupta, Purushottam Kar, Harish Karnick \n Technical Report. \[[https://arxiv.org/abs/1711.05482 PrePrint]]
 
