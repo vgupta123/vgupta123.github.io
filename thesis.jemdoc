@@ -5,9 +5,9 @@
 /Advisor: Prof. Harish Karnick (IIT Kanpur) & Pradhuman Jhala (Flipkart.com)/
 
 === Abstract
-Tagging products with path labels from a taxonomy is important for multiple tasks in e-commerce e.g. search. Most often sellers have textual product descriptions and we would like to automatically tag the product with a path label from a (largely)static hierarchical taxonomy. The main challenge is to devise a suitable vector representation for the textual description. 
+Tagging products with path labels from a taxonomy are important for multiple tasks in e-commerce, e.g. search. Most often sellers have textual product descriptions, and we would like to automatically tag the product with a path label from a static hierarchical taxonomy (largely). The main challenge is to devise a suitable vector representation for the textual description. 
 \n \n
-This involves composing semantically enriched document vectors from word vectors. Introduction of global context along with local context during word-vector training gives rise to paragraph vectors. Despite some success paragraph vectors suffer from the following logical problems:-
+Product Classification involves composing semantically enriched document vectors from word vectors. Introduction of global context along with local context during word-vector training gives rise to paragraph vectors. Despite some success paragraph vectors suffer from the following logical problems:-
 \n
 
 1. Current techniques embed paragraph vectors in the same space (dimension) despite paragraph containing multiple topics (senses).
