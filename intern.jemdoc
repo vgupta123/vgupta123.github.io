@@ -1,8 +1,10 @@
 # jemdoc: menu{MENU}{intern.html}, nofooter
-= Internships
+= Research Fellowship
 
 == [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research Lab, India]
 I worked as a Research Fellow in the [https://www.microsoft.com/en-us/research/group/machine-learning-natural-language-systems-and-applications/ Machine Learning, Natural Language Systems and Applications] group at [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research India]. I work under the guidance of [http://www.prateekjain.org/ Dr Prateek Jain], [http://praneethnetrapalli.org/ Dr Praneeth Netrapalli], and [https://scholar.google.co.in/citations?user=ZBkUp20AAAAJ&hl=en Dr Nagarajan Natarajan] on problems related to machine learning and natural language processing.
+
+= Internships
 
 == [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research Lab, India]
 I worked on Efficient Estimation of generalization error, bias and variance component so ensemble classifiers. Our method a provide technique for efficient estimation of classification score with the minimum number of base classifiers. I was mentored by Dr. Sundararajan Sellamanickam (Microsoft Research) and Dr. Dhruv Mahajan (Facebook Research). Currently the work is under review at SDM 2018.
