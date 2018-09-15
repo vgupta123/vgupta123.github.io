@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{pubs.html}, nofooter
 = Publications
 
-== Accepted Publications
+== Refereed Conference/Workshop Publications
 - *Unsupervised Semantic Abstractive Summarization* \n Shibhansh Dohare, Vivek Gupta, Harish Karnick,  \n  Published at 2018 ACL Student Research Workshop ([https://sites.google.com/view/aclsrw2018/home SRW]) \[[https://arxiv.org/pdf/1706.01678.pdf PrePrint]] \[[http://aclweb.org/anthology/P18-3011 Paper]\] \[[https://drive.google.com/file/d/1pV3l96o4v93JvgNPMfQ3h3O1qIbN0q03/view?usp=sharing Poster]\] 
 - *Sparse Composite Document Vectors using soft clustering over distributional representations* \n Dheeraj Mekala', Vivek Gupta', Bhargavi Paranjape , Harish Karnick \n Published at EMNLP 2017. \[[http://aclweb.org/anthology/D17-1069 Paper]\] \[[https://www.slideshare.net/vivekgupta3150/sparse-composite-document-vector-emnlp-2017 PPT]\]
 - *Product Classification in E-Commerce using Distributional Semantics* \n Vivek Gupta, Harish Karnick, Ashendra Bansal, Pradhuman Jhala \n Published at COLING 2016. \[[https://aclweb.org/anthology/C/C16/C16-1052.pdf Paper]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_X3g4R0N0WXhqSzQ/view?usp=sharing Poster]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_WFFyUE1qRlI5YzA/view PPT]\]
@@ -10,10 +10,13 @@
 
 == Working Manuscripts
 - *Leveraging Distributional Semantics for Multi-Label Learning* \n Rahul Wadbude' ,Vivek Gupta' ,Piyush Rai, Nagararjan Natararjan,Harish Karnick ,Prateek Jain \n Under Submission. \[[https://arxiv.org/abs/1709.05976 PrePrint]]
-- *Efficient Estimation of Generalization Error and Bias-Variance Components of Ensembles* \n Dhruv Mahajan, Vivek Gupta, Satya Keerthi, Sundararjan Sellamanickam \n Under Submission. \[[https://arxiv.org/abs/1711.05482 PrePrint]]
 - *Simple and Effective Dimensionality Reduction for Word Embeddings* \n Vikas Raunak, Vivek Gupta \n Under Submission
 - *Unsupervised Document Representation using Partition Word-Vectors Averaging* \n Vivek Gupta' , Ankit Saw', Partha Talukdar, Praneeth Netrapalli \n Under Submission
 - *Revisiting Composite Document Vector From Polysemic Perspective*\n Vivek Gupta', Ankit Saw', Harshit Gupta', Partha Talukdar, Praneeth Netrapalli \n Under Submission
-- *Bayes-optimal Hierarichal Classification over Asymmetric Tree-Distance Loss* \n Dheeraj Mekala, Vivek Gupta, Purushottam Kar, Harish Karnick \n Technical Report. \[[https://arxiv.org/abs/1711.05482 Report]]
+
+
+== (Permanently) arXiv-ed articles
+- *Efficient Estimation of Generalization Error and Bias-Variance Components of Ensembles* \n Dhruv Mahajan, Vivek Gupta, Satya Keerthi, Sundararjan Sellamanickam \n Under Submission. \[[https://arxiv.org/abs/1711.05482 PrePrint]]
+- *Bayes-optimal Hierarichal Classification over Asymmetric Tree-Distance Loss* \n Dheeraj Mekala, Vivek Gupta, Purushottam Kar, Harish Karnick \n Technical Report. \[[https://arxiv.org/pdf/1802.06771.pdf Report]]
 
 ' represent equal contribution..
