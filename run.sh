@@ -1,3 +1,4 @@
+#! usr/bin/bash
 python jemdoc.py -c analytics.conf index
 python jemdoc.py -c analytics.conf about
 python jemdoc.py -c analytics.conf pubs
