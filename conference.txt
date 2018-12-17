@@ -23,3 +23,8 @@ NAACL Deadline: Mon Dec 10 2018 23:59:59 GMT-1200 (Abstract - Dec 3)
 EACL
 COLING
 CONLL
+
+AIED Abstract Feb 1 Deadline Feb 8
+EDM Feb 28 March 7 (Short, Long)
+SIGCSE over
+IAAI over
