@@ -4,25 +4,25 @@ KDD Deadline: Sat Feb 02 2019 23:59:59 GMT+0000
 WWW Over
 WSDM Over
 AAAI Over
-UAI Coming
-SDM
-ICDM
+UAI Deadline: March 8th 2019, Abstract March 4, 2019
+SDM Over
+ICDM June 5, 2019
 ECML-PKDD
 SIGIR, Deadline: January 28, 2019 AoE (January 21 AoE)
 IJCAI, Deadline: Mon Feb 25 2019 23:59:59 GMT+0000 (Abstract: February 19)
 ICLR Over
-CIKM
-PAKDD
-AISTATS
-ECIR
-ECAI
+CIKM Upcoming
+PAKDD Over
+AISTATS Over
+ECIR Over
+ECAI (Next Year)
 
 ACL Deadline: Mon Mar 04 2019 23:59:00 GMT-1200
 EMNLP-IJCNLP: May 21, 2019 11:59pm
 NAACL Deadline: Mon Dec 10 2018 23:59:59 GMT-1200 (Abstract - Dec 3)
 EACL
-COLING
-CONLL
+COLING (Next Year)
+CONLL (Next Year)
 
 AIED Abstract Feb 1 Deadline Feb 8
 EDM Feb 28 March 7 (Short, Long)
