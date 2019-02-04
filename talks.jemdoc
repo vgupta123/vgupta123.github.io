@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks and Seminars
 
+- Distributional Semantics meets Multi-label Learning (Feb 2019)\n /[https://aaai.org/Conferences/AAAI-19/ AAAI 2019], Honolulu, Hawaii/ \[[docs/AAAI19PPT.pdf PPT]\] 
 - Unsupervised Document Representation using Partition Word-Vectors Averaging (Jan 2019)\n /[https://www.cs.utah.edu/~jeffp/teaching/cs7941.html Data Science Seminar, Spring 2019, University of Utah]/
 - Distributional Semantics meets Multi-label Learning (Jan 2019)\n /Natural Language Processing Group, School of Computing, University of Utah/
 - The Social Impact of Natural Language Processing (Jan 2019)\n /[https://www.cs.utah.edu/nlp/nlp-seminar-spr19.html NLP Seminar, Spring 2019, University of Utah]/
