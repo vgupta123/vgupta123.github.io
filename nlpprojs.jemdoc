@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{nlpprojs.html}, nofooter
 = Natural Language Processing
 
+Due to hectic Schedule, I am unable to actively update this page. However, I will update it whenever I get some free time.\n \n
+
 In my time at Microsoft Research and at IIT Kanpur, I have had the chance to explore both practical and interesting problems in Natural Langauge Processing \n \n
 
 - *Text Categorization using Sparse Composite Vectors* \n In this project, I worked on the novel approach of topic-based document representation (distributional semantics representation) which outperforms state-of-the-art models in multi-class and multi-label classification tasks. We also showed that fuzzy GMM clustering on word-vectors leads to more coherent topics than LDA and can be used to detect Polysemic words. (Joint work with Dheeraj Mekala, IIT Kanpur, Bhargavi Paranjape, Microsoft Research Lab, India & Prof. Harish Karnick, IIT Kanpur), \[[http://aclweb.org/anthology/D17-1069 Paper]\] \[[https://drive.google.com/file/d/0B0gqY7qPK73_NktudVZXY2R3S00/view PPT]\]
