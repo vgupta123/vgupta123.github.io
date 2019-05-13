@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{mlprojs.html}, nofooter
 = Machine Learning
 
+Due to hectic Schedule, I am unable to actively update this page. However, I will update it whenever I get some free time.\n \n
+
 In my time at Microsoft Research and at IIT Kanpur, I have had the chance to explore both the practical and exciting problems in Machine Learning \n \n
 
 - *Leveraging Distributional Semantics for Multi-Label Learning* \n In this project, I worked on the problem of designing embedding based multi-label learning algorithms using distributional semantics which has more efficient training procedures. We extended the approach to naturally incorporate other sources of side-information, in particular, the label-label co-occurrence matrix. (Joint work with Rahul Wadbude (IIT Kanpur), Prof. Piyush Rai (IIT Kanpur), Dr. Nagarajan Natarajan ( Microsoft Research), Prof.Harish Karnick (IIT Kanpur) and Dr. Prateek Jain (Microsoft Research)
