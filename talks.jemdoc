@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks and Seminars
 
+- Document Vector Estimation using Partition Word-Vectors Averaging (June 2019)\n /[http://www.research.ibm.com IBM Research]/ \[[docs/IBM-Seminar.pdf PPT]\]
 - Word Polysemy aware Document Vector Estimation (June 2019)\n /[https://naacl2019.org NAACL 2019]/ \[[https://docs.google.com/presentation/d/1pf6RFHGCGJOdTMeZxbZ32Vc8BfUBMK46I5G4F9PDXOs/edit?usp=sharing PPT ]\]
 - Natural Language Processing in E-Commerce, A Case Study (Invited Talk) (March 2019) \n /[http://datascience.utah.edu/club.html Data Science Cluab, University of Utah]/ \[[docs/DSClubs.pdf PPT]\]
 - Distributional Semantics meets Multi-label Learning (Feb 2019)\n /[https://aaai.org/Conferences/AAAI-19/ AAAI 2019], Honolulu, Hawaii/ \[[docs/AAAI19PPT.pdf PPT]\] 
