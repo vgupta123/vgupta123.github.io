@@ -92,7 +92,7 @@ class controlstruct(object):
     self.inf = self.otherfiles.pop(0)
 
 def showhelp():
-  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE]
+  a = """Usage: jemdoc [OPTIONS] [SOURCEFILE] 
   Produces html markup from a jemdoc SOURCEFILE.
 
   Most of the time you can use jemdoc without any additional flags.
@@ -113,7 +113,7 @@ def showhelp():
   overwritten by including them in a configuration file, and running,
   for example,
 
-    jemdoc -c mywebsite.conf index.jemdoc
+    jemdoc -c mywebsite.conf index.jemdoc 
 
   You can view version and installation details with
 
@@ -137,10 +137,10 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-
+  
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-
+  
   [windowtitle]
   # used in header for window title.
   <title>|</title>
@@ -150,22 +150,22 @@ def standardconf():
 
   [fwtitleend]
   </div>
-
+  
   [doctitle]
   # used at top of document.
   <div id="toptitle">
   <h1>|</h1>
-
+  
   [subtitle]
   <div id="subtitle">|</div>
-
+  
   [doctitleend]
   </div>
-
+  
   [bodystart]
   </head>
   <body>
-
+  
   [analytics]
   <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -176,16 +176,16 @@ def standardconf():
       var pageTracker = _gat._getTracker("|");
       pageTracker._trackPageview();
   } catch(err) {}</script>
-
+  
   [menustart]
   <table summary="Table for page layout." id="tlayout">
   <tr valign="top">
   <td id="layout-menu">
-
+  
   [menuend]
   </td>
   <td id="layout-content">
-
+  
   [menucategory]
   <div class="menu-category">|</div>
 
@@ -197,60 +197,60 @@ def standardconf():
 
   [specificjs]
   <script src="|.js" type="text/javascript"></script>
-
+  
   [currentmenuitem]
   <div class="menu-item"><a href="|1" class="current">|2</a></div>
-
+  
   [nomenu]
   <div id="layout-content">
-
+  
   [menulastbit]
   </td>
   </tr>
   </table>
-
+  
   [nomenulastbit]
   </div>
-
+  
   [bodyend]
   </body>
   </html>
-
+  
   [infoblock]
   <div class="infoblock">
-
+  
   [codeblock]
   <div class="codeblock">
-
+  
   [blocktitle]
   <div class="blocktitle">|</div>
-
+  
   [infoblockcontent]
   <div class="blockcontent">
-
+  
   [codeblockcontent]
   <div class="blockcontent"><pre>
-
+  
   [codeblockend]
   </pre></div></div>
-
+  
   [codeblockcontenttt]
   <div class="blockcontent"><tt class="tthl">
-
+  
   [codeblockendtt]
   </tt></div></div>
-
+  
   [infoblockend]
   </div></div>
-
+  
   [footerstart]
   <div id="footer">
   <div id="footer-text">
-
+  
   [footerend]
   </div>
   </div>
-
+  
   [lastupdated]
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
@@ -962,7 +962,7 @@ def geneq(f, eq, dpi, wl, outname):
     preamble += re.sub(r'\\(?=[{}])', '', p + '\n')
   preamble += '\pagestyle{empty}\n\\begin{document}\n'
   g.write(preamble)
-
+  
   # Write the equation itself.
   if wl:
     g.write('\\[%s\\]' % eq)
@@ -1412,7 +1412,7 @@ def procfile(f):
         if len(g) in (0, 1): # info block.
           out(f.outf, f.conf['infoblock'])
           infoblock = True
-
+          
           if len(g) == 1: # info block.
             hb(f.outf, f.conf['blocktitle'], g[0])
 
@@ -1439,7 +1439,7 @@ def procfile(f):
           # handles
           # {}{img_left}{source}{alttext}{width}{height}{linktarget}.
           g += ['']*(7 - len(g))
-
+          
           if g[4].isdigit():
             g[4] += 'px'
 
