@@ -6,6 +6,9 @@ I worked as a Research Fellow in the [https://www.microsoft.com/en-us/research/g
 
 = Internships
 
+== [https://www.research.ibm.com/artificial-intelligence/ IBM Research, Thomas J. Watson Research Center, New York]
+I worked on generating interpretable explanation for Natural Language Task. Speciffically, I worked on Generating Contrastive Explanations for Natural Language Processing. The idea is the closest meaning attribute whose present and absence are necessary to explain the model prediction. The method has a close connection of the topic with Adversarial Learning and Counterfactual Explanations. We proposed an edit based controlled paraphrase model with topic modelling based interpretable attribute to handle the above challenges. I work under the guidance of Karthikeyan Shanmugam, Pin-Yu Chen, Ioana Baldini, Prasanna Sattigeri, Ronny Luss, Amit Dhurandhar, Kush R Varshney.
+
 == [https://www.microsoft.com/en-us/research/lab/microsoft-research-india/ Microsoft Research Lab, India]
 I worked on Efficient Estimation of generalization error, bias and variance component of ensemble classifiers. Our method provide a technique for efficient estimation of classification score using only a required bare minimum number of base classifiers. I was mentored by Dr. Sundararajan Sellamanickam (Microsoft Research) and Dr. Dhruv Mahajan (Facebook Research). I also receive a Research Fellowship offer in the end of internship.
 
