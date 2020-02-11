@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks and Seminars
 
+- P-SIF: Document Representation using Partition Word-Vectors Averaging (Feb 2020)\n /https://aaai.org/Conferences/AAAI-20/ AAAI 2020], New York/ \[[docs/AAAI20_PPT.pdf PPT]\]
+- Experience of Coordinating SIGML Research Group, [https://www.linkedin.com/company/iitg-ai/ IITG.ai, IIT Guwahati]
 - Is SOA really SOA? Artifacts Learning Problem in NLP (September 2019)\n /Natural Language Processing Group, School of Computing, University of Utah \[[docs/NLPSeminar2019.pdf PPT]\]/
 - Document Vector Estimation using Partition Word-Vectors Averaging (June 2019)\n /[http://www.research.ibm.com IBM Research]/ \[[docs/IBM-Seminar.pdf PPT]\]
 - Word Polysemy aware Document Vector Estimation (June 2019)\n /[https://naacl2019.org NAACL 2019]/ \[[https://docs.google.com/presentation/d/1pf6RFHGCGJOdTMeZxbZ32Vc8BfUBMK46I5G4F9PDXOs/edit?usp=sharing PPT ]\]
