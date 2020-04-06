@@ -2,6 +2,7 @@
 = Publications
 
 == Refereed Conference/Workshop Publications
+- *InfoTabS: Inference on Tables as Semi-structured Data*, \n *Vivek Gupta*, Maitrey Mehta, Pegah Nokhiz, Vivek Srikumar \n Accepted to appear at [https://acl2020.org ACL 2020] \[[Preprint]\]
 - *Improving Document Classification with Multi-Sense Embeddings*, \n *Vivek Gupta*, Ankit Saw,  Pegah Nokhiz, Harshit Gupta, and Partha Talukdar \n Accepted to appear at [http://ecai2020.eu ECAI 2020] \[[https://arxiv.org/pdf/1911.07918.pdf Paper]\] \[[http://vivgupt.blogspot.com/2019/06/document-vector-estimation-using.html Blog]\] \n(extention of NAACL-SRW 2019 work)\n
 - *P-SIF: Document Embeddings using Partition Averaging* \n *Vivek Gupta*, Ankit Saw, Pegah Nokhiz,  Praneeth Netrapalli, Piyush Rai, Partha Talukdar\n Accepted to appear at [https://aaai.org/Conferences/AAAI-20/ AAAI 2020] \[[docs/AAAI-GuptaV.3656.pdf Paper]\] \[[docs/aaai2020appendix.pdf Appendix]\] \[[docs/AAAI20_PPT.pdf PPT]\] \[[docs/AAAI20_Poster.pdf Poster]\] \[[http://vivgupt.blogspot.com/2019/06/document-vector-estimation-using.html Blog]\]
 - *A Logic-Driven Framework for Consistency of Neural Models* \n Tao Li, *Vivek Gupta*, Maitrey Mehta and Vivek Srikumar \n Published at [https://www.emnlp-ijcnlp2019.org EMNLP-IJCNLP 2019] \[[https://www.aclweb.org/anthology/D19-1405.pdf Paper]\] \[[docs/emnlp2019_poster.pdf Poster]\] \n (also appearing at [http://www.starai.org/2020/ StarAI 2020])
