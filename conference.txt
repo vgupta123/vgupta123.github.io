@@ -17,7 +17,9 @@ AISTATS Over
 ECIR Over
 ECAI (Next Year)
 IJCNN
-ECIR
+
+FAT*
+AIES
 
 ACL Deadline: Mon Mar 04 2019 23:59:00 GMT-1200
 EMNLP-IJCNLP: May 21, 2019 11:59pm
@@ -25,6 +27,9 @@ NAACL Deadline: Mon Dec 10 2018 23:59:59 GMT-1200 (Abstract - Dec 3)
 EACL
 COLING (Next Year)
 CONLL (Next Year)
+AACL
+AKBC
+
 
 AIED Abstract Feb 1 Deadline Feb 8
 EDM Feb 28 March 7 (Short, Long)
