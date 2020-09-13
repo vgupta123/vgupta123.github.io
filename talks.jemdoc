@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{talks.html}, nofooter
 = Talks and Seminars
 
+- Improving Document Embedding with Multi-Sense Embedding (Sep 2020)\n ECAI 2020
+- InfoTabS: Inference on Tables as Semi-Structured Data (Aug 2020)\n Verisk Analytics, Data Science Seminar
+- Logical Natural Language Generation from Open-Domain Tables\n Utah NLP Group ACL 20-recap
+- Inherent Disagreements in Human Textual Inferences (Aug 2020)\n Utah NLP Group ACL 20-recap
+- InfoTabS: Inference on Tables as Semi-Structured Data (July 2020)\n ACL 2020
 - InfoTabS: Inference on Tables as Semi-Structured Data (Jan 2020)\n IIT-Kanpur,Delhi,Jodhpur, IISC Bangalore, IBM Research, India, IITG.ai IIT Guwahati, and IIIT Delhi \[[docs/InfoTabS_PPT.pdf PPT]\]
 - P-SIF: Document Representation using Partition Word-Vectors Averaging (Feb 2020)\n [https://aaai.org/Conferences/AAAI-20/ AAAI 2020], New York \[[docs/AAAI20_PPT.pdf PPT]\]
 - Experience of Coordinating SIGML Research Group at IIT Kanpur (Feb 2020)\n [https://www.linkedin.com/company/iitg-ai/ IITG.ai Group, IIT Guwahati]
