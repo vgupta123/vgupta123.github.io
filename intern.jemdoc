@@ -6,6 +6,9 @@ I worked as a Research Fellow in the [https://www.microsoft.com/en-us/research/g
 
 = Internships
 
+== [https://ai.facebook.com Facebook AI Research, Seattle, Washington (virtual)]
+I worked on efficient and effective semantic parsing for a task-oriented dialogues system. Publication under review at top-tier NLP conference.
+
 == [https://www.research.ibm.com/artificial-intelligence/ IBM Research, Thomas J. Watson Research Center, New York]
 I worked on generating interpretable explanation for Natural Language Task. Speciffically, I worked on Generating Contrastive Explanations for Natural Language Processing. The idea is the closest meaning attribute whose present and absence are necessary to explain the model prediction. The method has a close connection of the topic with Adversarial Learning and Counterfactual Explanations. We proposed an edit based controlled paraphrase model with topic modelling based interpretable attribute to handle the above challenges. I work under the guidance of Karthikeyan Shanmugam, Pin-Yu Chen, Ioana Baldini, Prasanna Sattigeri, Ronny Luss, Amit Dhurandhar, Kush R Varshney.
 
