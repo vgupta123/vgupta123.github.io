@@ -32,7 +32,7 @@
 - *Effective Dimensionality Reduction for Word Embeddings* \n Vikas Raunak, *Vivek Gupta* and Florian Metze \n Published at [https://sites.google.com/view/repl4nlp2019/home RepL4NLP 2019]. \[[https://www.aclweb.org/anthology/W19-4328 Paper]\] \[[docs/RepL4NLP_Poster.pdf Poster]\] \[[https://github.com/vyraun/Half-Size Code]\]
 
 === Summarization
-- *SumPubMed: Summarization Dataset of PubMed Scientific Articles*, \n *Vivek Gupta*, Prerna Bharti, Pegah Nokhiz, Harish Karnick \n accepted to appear in [https://sites.google.com/view/acl-ijcnlp-2021-srw/ ACL-IJCNLP SRW 2021] \[[docs/121_paper.pdf Preprint]]  \[[https://github.com/vgupta123/sumpubmed Dataset]\] \[[https://docs.google.com/presentation/d/12zNpBw02DXjwQYTop5LQHwXe_HCLR8dg6D4bYYMYS7E/edit?usp=sharing PPT]\]
+- *SumPubMed: Summarization Dataset of PubMed Scientific Articles*, \n *Vivek Gupta*, Prerna Bharti, Pegah Nokhiz, Harish Karnick \n accepted to appear in [https://sites.google.com/view/acl-ijcnlp-2021-srw/ ACL-IJCNLP SRW 2021] \[[docs/121_paper.pdf Preprint]]  \[[https://github.com/vgupta123/sumpubmed Dataset]\] \[[https://docs.google.com/presentation/d/12zNpBw02DXjwQYTop5LQHwXe_HCLR8dg6D4bYYMYS7E/edit?usp=sharing PPT]\] \[[https://github.com/vgupta123/sumpubmed Dataset]\]
 - *Unsupervised Semantic Abstractive Summarization* \n Shibhansh Dohare, *Vivek Gupta*, Harish Karnick,  \n  Published at [https://sites.google.com/view/aclsrw2018/home ACL-SRW 2018] \[[https://arxiv.org/pdf/1706.01678.pdf Preprint]] \[[http://aclweb.org/anthology/P18-3011 Paper]\] \[[https://drive.google.com/file/d/1pV3l96o4v93JvgNPMfQ3h3O1qIbN0q03/view?usp=sharing Poster]\] \[[https://github.com/shibhansh/Unsupervised-SAS Code]\]
 
 === eXtreme Learning (Capturing tail)
