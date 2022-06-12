@@ -11,9 +11,9 @@
 +Won Best Paper award at [https://sites.google.com/view/deelio-ws DeeLIO-2022]+
 - *XInfoTabS: Evaluating Multilingual Tabular Natural Language Inference*, \n  Bhavnick Minhas\*, Anant Shankhdhar\*, *Vivek Gupta*\*, Divyanshu Aggarwal, Shuo Zhang,\n published at [https://mml-workshop.github.io MML-2022] (non-archival) and [https://fever.ai FEVER-2022] (archival) @[https://www.2022.aclweb.org/ ACL 2022] \[[docs/XInfoTabS.pdf Preprint]\] \[[docs/XInfoTabS_Poster.pdf Poster]\] \[[docs/XInfoTabS_PPT.pdf PPT]\] \[[https://youtu.be/A9aS7sXY3BA Video]\]
 - *Enhancing Tabular Reasoning with Pattern Exploiting Training*,\n Abhilash Shankarampeta\*,  *Vivek Gupta*\* to appear at [https://suki-workshop.github.io/ SUKI-2022] (non-archival) \[[https://suki-workshop.github.io/assets/paper/24.pdf Preprint]\] 
-- *Efficient Realistic Data Generation Framework for Semi-Structured Tabular Inference*,
+- *Efficient Realistic Data Generation Framework for Semi-Structured Tabular Inference*, \n
 Dibyakanti Kumar\*, *Vivek Gupta*\*, Soumya Sharma to appear at [https://suki-workshop.github.io/ SUKI-2022](non-archival)  \[[https://suki-workshop.github.io/assets/paper/25.pdf Preprint]\] 
-- *Framework for Recasting Table-to-Text Generation Data for Tabular Inference\n
+- *Framework for Recasting Table-to-Text Generation Data for Tabular Inference*,\n
 Aashna Jena\*,  *Vivek Gupta*\*, Manish Shrivastava, Julian Martin Eisenschlos to appear at [https://suki-workshop.github.io/ SUKI-2022] (non-archival) \[[https://suki-workshop.github.io/assets/paper/26.pdf Preprint]\] 
 - *RetroNLU: Retrieval Augmented Task Oriented Semantic Parsing*,\n  *Vivek Gupta*, Akshat Shrivastava, Adithya Sagar, Armen Aghajanyan, Denis Savenkov,\n to appear at [https://www.semiparametric.ml Spa-NLP-2022] (non-archival) and [https://sites.google.com/view/4thnlp4convai NLP4ConvAI-2022] (archival) @[https://www.2022.aclweb.org/ ACL 2022] \[[docs/RetroNLU.pdf Preprint]\] \[[docs/RetroNLU_Poster.pdf Poster]\] \[[docs/RetroNLU_PPT.pdf PPT]\] \[[https://youtu.be/sAsaTTveCmE Video]\]\n
 +Won Outstanding Paper award at [https://sites.google.com/view/4thnlp4convai NLP4ConvAI-2022]+
