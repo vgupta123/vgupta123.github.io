@@ -1,0 +1,153 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Inference and Reasoning for Semi-structured Tables</title>
+  </head>
+  <body>
+    <div class="header">
+      <img src="images/utahnlp.png" alt="University of Utah logo">
+      <img src="images/stirlogo.png" alt="STIR logo" class="img-container"> 
+      <br>
+      <ul>
+        <li>
+          <a href="#home">Home</a>
+        </li>
+        <li>
+          <a href="#motivation">Motivation</a>
+        </li>
+        <li>
+          <a href="#application">Application</a>
+        </li>
+        <li>
+          <a href="#publications">Publications</a>
+        </li>
+        <li>
+          <a href="#member">Members</a>
+        </li>
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
+      </ul>
+      <br>
+      <br>
+    </div>
+    <div id="home">
+      <h1>STIR: Inference and Reasoning for Semi-structured Tables</h1>
+      <p>Welcome to the Inference and Reasoning for Semi-structured Tables research group at the University of Utah, led by principal investigator Vivek Gupta. Our research focuses on developing methods for understanding and interpreting semi-structured data, such as entity-centric tables. This type of data is critical in today's world as it is often used to represent knowledge and is widely available on the web.</p>
+    </div>
+    <div id="motivation">
+      <h2>Motivation and Challenges</h2>
+      <p>The motivation for our research is the recognition that semi-structured data, such as entity-centric tabular data, is becoming increasingly important in a variety of applications. For example, this type of data is commonly found in finance, healthcare, and e-commerce, where it is used to represent complex information in a structured format. Semi-structured data, such as tables, plays a crucial role in many real-world applications, from extracting information from financial reports to answering questions about product specifications. However, current models designed for unstructured text are not directly applicable to tabular data, and there are several challenges specific to this type of data.</p>
+      <p>One of the main challenges in working with semi-structured data is the lack of context that is often present in unstructured text. For example, a table may contain a key and a value, but without understanding the relationship between the two, it can be difficult for a model to make sense of the data. To address this challenge, our research group is exploring ways to incorporate external knowledge into tabular reasoning models, in order to provide the necessary context for understanding the data. Another challenge is adapting models designed for unstructured text to tabular data. Traditional models are not well-suited for understanding this type of data, as they lack the necessary context to comprehend the meaning of text fragments (such as keys) and their relationships to other elements (such as values and other keys).</p>
+      <h3>Incorporating External Knowledge for Context</h3>
+      <p>Incorporating external knowledge into tabular reasoning models is another important focus of our research. Tables often lack the necessary context to comprehend the meaning of a text fragment (e.g., a key) and its relationship to other elements (such as a value and other keys). To address this challenge, our group has developed several approaches for incorporating external knowledge into tabular reasoning models. These approaches include implicit knowledge addition and explicit knowledge definition through the use of keys, as well as changes to the model architecture to incorporate knowledge using a knowledge and concept graph. [2,3].</p>
+      <h3>Ensuring Evidence-Based Reasoning</h3>
+      <p>Ensuring that tabular reasoning models use evidence-based reasoning is another important focus of our research. This is critical because models can often rely on spurious correlations between input parts, rather than making inferences based on evidence. Models can also over-rely on pre-trained knowledge, leading to grounding issues. To address these issues, we have developed several methods for probing and examining the evidence used by these models, as well as an interactive platform for creating counterfactual data through effective table perturbation. We have developed methods for examining and probing the evidence used by tabular reasoning models [5] and for creating counterfactual data through table perturbation [6].
+      <h3>Ensuring Tabular Multilingual Support</h3>
+      <p>Our group is also interested in exploring ways to ensure that tabular reasoning models are able to work across multiple languages. This is a particularly challenging problem, as it requires the creation of cost-effective multilingual data using machine translation models for table translation. To address this challenge, we have developed a new task of bilingual tabular inference and have explored various training and testing strategies for multilingual tabular natural language inference.</p>
+      <h3>Enhancing Tabular Inference and Reasoning</h3>
+      <p>Our research group is also focused on enhancing tabular inference and reasoning by developing new methods for handling large-scale tabular data, improving the efficiency and effectiveness of tabular reasoning models, and exploring new approaches for incorporating external knowledge into tabular reasoning models. We have developed methods for handling large-scale tabular data using sub-sampling and data compression techniques, as well as methods for improving the efficiency and effectiveness of tabular reasoning models through the use of graph attention and multitask learning. We have also explored the use of external knowledge sources such as Wikipedia and knowledge graphs to enhance tabular reasoning models [1,4]. Pre-training has also been a focus of the group's research, as it has shown to be an effective way to enhance tabular reasoning models. The group has developed methods for pattern-exploited pre-training, which involves using patterns in the data to improve the performance of the model. [9] </p>
+      <h3>Conclusion and Summary</h3>
+      <p>In summary, our research group at the University of Utah is focused on developing methods for understanding and interpreting semi-structured data, such as entity-centric tables. We are exploring ways to incorporate external knowledge into tabular reasoning models, ensure that tabular reasoning models use evidence-based reasoning, and support multilingual tabular inference. We are also working on enhancing tabular inference and reasoning by developing new methods for handling large-scale tabular data and improving the efficiency and effectiveness of tabular reasoning models. Through our research, we hope to make significant contributions to the field of tabular reasoning and enable the more effective use of semi-structured data in a variety of applications.</p>
+    </div>
+    <div id="application">
+      <h2>Real-World Applications</h2>
+      <p>Our research on inference and reasoning for semi-structured tables has a wide range of real-world applications, from extracting information from financial reports to answering questions about product specifications. We are constantly working to improve and refine our methods in order to better understand and interpret this type of data, with the ultimate goal of enabling more effective decision-making and problem-solving in a variety of fields.</p>
+      <p>Some examples of these applications include:</p>
+      <ol>
+        <li>Financial reports: Companies often present financial information in the form of tables, such as income statements, balance sheets, and cash flow statements. By working on methods for inference and reasoning on semi-structured tables, it is possible to extract important financial information and perform analysis to aid in decision-making.</li>
+        <li>Product specifications: Many products, such as electronics and appliances, come with detailed specification tables that provide information about their features and capabilities. By working on methods for understanding and interpreting this type of data, it is possible to answer questions about a product's capabilities and make informed purchasing decisions.</li>
+        <li>Database management: Semi-structured tables are often used to store and organize data in databases. By improving our ability to reason about and interpret this type of data, it is possible to make more effective use of databases and improve data management.</li>
+        <li>Information extraction: Semi-structured tables are often used to present information in a structured format, such as in government documents, scientific papers, and news articles. By working on methods for extracting and interpreting this type of data, it is possible to automate the process of gathering and organizing information from these sources.</li>
+      </ol>
+      <p>Overall, the goal of working on inference and reasoning for semi-structured tables is to enable more effective decision-making and problem-solving in a variety of fields by improving our understanding and interpretation of this type of data.</p>
+    </div>
+    <div id="publications">
+      <h2>Publications</h2>
+      <p>The research group has published several papers on this topic in top-tier venues such as ACL, NAACL, and TACL, and has received several awards for its work, including a Best Paper award at DeeLIO-2022 @ACL 2022. Below is the complete list of references for the group's published papers:</p>
+      <p>
+      <ol>
+        <li> "InfoTabS: Inference on Tables as Semi-structured Data" by <b>Vivek Gupta</b>, Maitrey Mehta, Pegah Nokhiz, and Vivek Srikumar. Published at ACL 2020. </li>
+        <li>"Incorporating External Knowledge to Enhance Tabular Reasoning" by J. Neeraja*, <b>Vivek Gupta</b>*, and Vivek Srikumar. Published at NAACL 2021. </li>
+        <li> "Trans-KBLSTM: An External Knowledge Enhanced Transformer BiLSTM model for Tabular Reasoning" by Yerram Varun*, Aayush Sharma*, and <b>Vivek Gupta</b>*. At DeeLIO-2022 @ACL 2022 (Won Best Paper award). </li>
+        <li> "Right for the Right Reason: Evidence Extraction for Trustworthy Tabular Reasoning" by <b>Vivek Gupta</b>, Shuo Zhang, Alakananda Vempala, Yujie He, Temma Choji, and Vivek Srikumar. Published at ACL 2022. </li>
+        <li> "Is My Model Using The Right Evidence? Systematic Probes for Examining Evidence-Based Tabular Reasoning" by <b>Vivek Gupta</b>, Riyaz A. Bhat, Atreya Ghosal, Manish Srivastava, Maneesh Singh, and Vivek Srikumar. Published at TACL 2022, presented at ACL 2022. </li>
+        <li> "TabPert: An Effective Platform for Tabular Perturbation" by Nupur Jain, <b>Vivek Gupta</b>, Anshul Rai, and Gaurav Kumar. Published at EMNLP 2021, Demo track. </li>
+        <li>"XInfoTabS: Evaluating Multilingual Tabular Natural Language Inference" by Bhavnick Minhas*, Anant Shankhdhar*, <b>Vivek Gupta</b>*, Divyanshu Aggarwal, and Shuo Zhang. Published at MML-2022 (non-archival) and FEVER-2022 (archival) @ACL 2022. </li>
+        <li> "Bilingual Tabular Inference: A Case Study on Indic Languages" by Chaitanya Agarwal*, <b>Vivek Gupta</b>*, Anoop Kunchukuttan, and Manish Shrivastava. Published at NAACL 2022. </li>
+        <li>"Enhancing Tabular Reasoning with Pattern Exploiting Training" by Abhilash Shankarampeta*, <b>Vivek Gupta</b>*, and Shuo Zhang. Published at SUKI-2022 (non-archival), Published at AACL-2022. </li>
+        <li>"Realistic Data Augmentation Framework for Enhancing Tabular Reasoning" by Dibyakanti Kumar*, <b>Vivek Gupta</b>*, Soumya Sharma, and Shuo Zhang. Published at SUKI-2022(non-archival), Published at EMNLP 2022 Finding. </li>
+        <li>"Leveraging Data Recasting to Enhance Tabular Reasoning" by Aashna Jena*, <b>Vivek Gupta</b>*, Manish Shrivastava, and Julian Martin Eisenschlos. Published at SUKI-2022 (non-archival), Published at EMNLP 2022 Finding. </li>
+      </ol>
+      </p>
+    </div>
+    <div id="member">
+      <h2>Members</h2>
+      <table>
+        <tr>
+          <td>
+            <ul>
+              <li>Vivek Gupta (Principal Investigator)</li>
+              <li>Maitrey Mehta</li>
+              <li>Pegah Nokhiz</li>
+              <li>Vivek Srikumar</li>
+              <li>J. Neeraja</li>
+              <li>Yerram Varun</li>
+              <li>Aayush Sharma</li>
+              <li>Shuo Zhang</li>
+              <li>Alakananda Vempala</li>
+              <li>Yujie He</li>
+              <li>Temma Choji</li>
+              <li>Riyaz A. Bhat</li>
+              <li>Atreya Ghosal</li>
+              <li>Manish Srivastava</li>
+              <li>Maneesh Singh</li>
+            </ul>
+          </td>
+          <td>
+            <ul>
+              <li>Nupur Jain</li>
+              <li>Anshul Rai</li>
+              <li>Gaurav Kumar</li>
+              <li>Bhavnick Minhas</li>
+              <li>Anant Shankhdhar</li>
+              <li>Divyanshu Aggarwal</li>
+              <li>Chaitanya Agarwal</li>
+              <li>Anoop Kunchukuttan</li>
+              <li>Abhilash Shankarampeta</li>
+              <li>Dibyakanti Kumar</li>
+              <li>Soumya Sharma</li>
+              <li>Aashna Jena</li>
+              <li>Julian Martin Eisenschlos</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <!--       <ul><li>Vivek Gupta (Principal Investigator)</li><li>Maitrey Mehta</li><li>Pegah Nokhiz</li><li>Vivek Srikumar</li><li>J. Neeraja</li><li>Yerram Varun</li><li>Aayush Sharma</li><li>Shuo Zhang</li><li>Alakananda Vempala</li><li>Yujie He</li><li>Temma Choji</li><li>Riyaz A. Bhat</li><li>Atreya Ghosal</li><li>Manish Srivastava</li><li>Maneesh Singh</li><li>Nupur Jain</li><li>Anshul Rai</li><li>Gaurav Kumar</li><li>Bhavnick Minhas</li><li>Anant Shankhdhar</li><li>Divyanshu Aggarwal</li><li>Chaitanya Agarwal</li><li>Anoop Kunchukuttan</li><li>Abhilash Shankarampeta</li><li>Dibyakanti Kumar</li><li>Soumya Sharma</li><li>Aashna Jena</li><li>Julian Martin Eisenschlos</li></ul> -->
+      <div id="contact">
+        <h2>Contact Information</h2>
+        <p> If you would like to learn more about our research on inference and reasoning for semi-structured tables, please contact <a href="mailto:keviv9@gmail.com">Vivek Gupta</a> for more information. We are always happy to discuss our work and answer any questions you may have. We value <b>collaboration</b> and are always looking for opportunities to work with other researchers and organizations on projects related to semi-structured tables. If you are interested in collaborating with our research group, please feel free to contact <a href="mailto:keviv9@gmail.com">Vivek Gupta</a> to discuss potential project ideas.</p>
+  </body>
+  <div id="disclaimer">
+    <p> <b>Disclaimer:</b> This webpage was created with the help of ChatGPT and is intended for informational purposes only. ChatGPT is a large language model trained by OpenAI.</p>
+  </div>
+  <div class="footer">
+    <p>Contact us:</p>
+    <ul>
+      <li>Email: <a href="mailto:keviv9@gmail.com">Email to Vivek Gupta</a>
+      </li>
+      <!-- <li>Phone: (123) 456-7890</li> -->
+    </ul>
+    <ul>
+      <li>
+        <a href="https://vgupta123.github.io">Webpage</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/keviv9">Twitter</a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/keviv9/">LinkedIn</a>
+      </li>
+    </ul>
+  </div>
+</html>
