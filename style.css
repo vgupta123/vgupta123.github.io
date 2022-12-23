@@ -97,7 +97,7 @@ a:hover {
 
 .header img {
   float: left;
-  height: 70px;
+  height: 50px;
   margin-right: 20px;
 }
 
@@ -262,6 +262,11 @@ input[type="submit"]:hover {
 ul {
   color: #555555;
 }
+
+.img-container {
+        text-align: center;
+        display: block;
+      }
 
 
 #disclaimer {
