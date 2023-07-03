@@ -2,8 +2,8 @@
 = Ph.D. Thesis
 
 == Inference and Reasoning for Semi-structured Tables 
-/Advisor: Prof. Vivek Srikumar (UUtah)/
-/Committee: Committee: Prof. Vivek Srikumar (UUtah), Prof. Jeff Phillips (UUtah), Prof. Ellen Riloff (UUtah), Prof. William Wang (UCSB), Prof. Mohit Bansal (UNC) /
+/Advisor: Prof. Vivek Srikumar (UUtah)/ \n
+/Committee: Prof. Vivek Srikumar (UUtah), Prof. Jeff Phillips (UUtah), Prof. Ellen Riloff (UUtah), Prof. William Wang (UCSB), Prof. Mohit Bansal (UNC) /
 
 === Abstract
 Semi-structured tabular data, such as one in e-commerce product descriptions, annual financial reports, sports score statistics, scientific articles, etc., are ubiquitous in real-world applications. This dissertation investigates how machines understand and reason about such data. Understanding the meaning of text fragments and their implicit connections is essential for processing such data.\n\n
