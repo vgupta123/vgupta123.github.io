@@ -4,8 +4,8 @@
 == Inference and Reasoning for Semi-structured Tables 
 /Advisor: [https://svivek.com/ Prof. Vivek Srikumar]/ \n
 # /Committee: Prof. Vivek Srikumar (UUtah), Prof. Jeff Phillips (UUtah), Prof. Ellen Riloff (UUtah), Prof. William Wang (UCSB), Prof. Mohit Bansal (UNC) /
-# /Committee (Internal):/ [https://svivek.com/ Prof. Vivek Srikumar], [https://www.cs.utah.edu/~jeffp/ Prof. Jeff Phillips], [http://www.cs.utah.edu/~riloff/ Prof. Ellen Riloff]\n
-# /Committee (External):/ [https://sites.cs.ucsb.edu/~william/ Prof. William Wang], [https://www.cs.unc.edu/~mbansal/ Prof. Mohit Bansal]\n
+/Committee :/ [https://svivek.com/ Prof. Vivek Srikumar], [https://www.cs.utah.edu/~jeffp/ Prof. Jeff Phillips], [http://www.cs.utah.edu/~riloff/ Prof. Ellen Riloff], [https://sites.cs.ucsb.edu/~william/ Prof. William Wang], [https://www.cs.unc.edu/~mbansal/ Prof. Mohit Bansal]\n
+Supported by [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022/ Bloomberg Data Science Fellowship 2021-23]
 
 === Abstract
 Semi-structured tabular data, such as one in e-commerce product descriptions, annual financial reports, sports score statistics, scientific articles, etc., are ubiquitous in real-world applications. This dissertation investigates how machines understand and reason about such data. Understanding the meaning of text fragments and their implicit connections is essential for processing such data.\n\n
